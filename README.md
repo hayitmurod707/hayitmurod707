@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a software engineer specializing in User Experience and Front-End development, although I consider myself a code generalist and get excited about solving just about any problem.
+CORE COMPETENCIES
+Basic: HTML, CSS
+Languages: Javascript
+Frameworks: React.js, Next.js, Node.js
+Technologies: Bootstrap, SASS, LESS
