@@ -14,7 +14,7 @@ Tools: `Git`, `Github`, `Figma`, `Postman`</br>
 Other: `UI / UX`, `Design patterns`</br>
 
 ### Contacts
-Website [hayitmurod.me](https://hayitmurod.me),</br>
-Linkedin: [Hayitmurod Eshimov](https://www.linkedin.com/in/hayitmurod-eshimov-29b0b1207/),</br>
-Facebook: [Hayitmurod Eshimov](https://www.facebook.com/hayitmurod.eshimov)</br>
-Instagram: [Hayitmurod Eshimov](https://www.instagram.com/hayitmurod707/)</br>
+Website [hayitmurod.me](https://hayitmurod.me){:target="_blank"}</br>
+Linkedin: [Hayitmurod Eshimov](https://www.linkedin.com/in/hayitmurod-eshimov-29b0b1207/){:target="_blank"}</br>
+Facebook: [Hayitmurod Eshimov](https://www.facebook.com/hayitmurod.eshimov){:target="_blank"}</br>
+Instagram: [Hayitmurod Eshimov](https://www.instagram.com/hayitmurod707/){:target="_blank"}</br>
