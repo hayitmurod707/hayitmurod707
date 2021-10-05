@@ -4,14 +4,14 @@
 I'm a software engineer specializing in User Experience and Front-End development, although I consider myself a code generalist and get excited about solving just about any problem.
 
 ### CORE COMPETENCIES
-Basic: `HTML`, `CSS`
-Languages: `Javascript`
-Frameworks: `React.js`, `Next.js`, `Node.js`
-Technologies: `Bootstrap`, `SASS`, `LESS`
-Libraries(Javascript): `npm.js`, `web-socket`, `axios`, `redux.js`, `chart.js`, `lodash`, `moment`, `video.js`, `swiper.js`, `text-mask`
-Libraries(React.js): `react-router-dom`,` react-redux`, `styled-components`, `react-beautiful-dnd`, `recharts`, `react-i18next`, `react-input-mask`, `react-select`, `react-datepicker`, `react-color`, `react-infinite-scroller`, `rodal`, `react-toastify`, `react-js-pagination`
-Tools: `Git`, `Github`, `Figma`, `Postman`
-Other: `UI / UX`, `Design patterns`
+Basic: `HTML`, `CSS`</br>
+Languages: `Javascript` </br>
+Frameworks: `React.js`, `Next.js`, `Node.js`</br>
+Technologies: `Bootstrap`, `SASS`, `LESS`</br>
+Libraries(Javascript): `npm.js`, `web-socket`, `axios`, `redux.js`, `chart.js`, `lodash`, `moment`, `video.js`, `swiper.js`, `text-mask`</br>
+Libraries(React.js): `react-router-dom`,` react-redux`, `styled-components`, `react-beautiful-dnd`, `recharts`, `react-i18next`, `react-input-mask`, `react-select`, `react-datepicker`, `react-color`, `react-infinite-scroller`, `rodal`, `react-toastify`, `react-js-pagination`</br>
+Tools: `Git`, `Github`, `Figma`, `Postman`</br>
+Other: `UI / UX`, `Design patterns`</br>
 
 ### Contacts
 Website [hayitmurod.me](https://hayitmurod.me),
