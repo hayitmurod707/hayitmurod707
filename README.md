@@ -19,4 +19,4 @@ Website: <a href="https://hayitmurod.me" target="_blank" rel="noopener">hayitmur
 Linkedin:  <a href="https://www.linkedin.com/in/hayitmurod-eshimov-29b0b1207/" target="_blank" rel="noopener">Hayitmurod Eshimov</a></br>
 Facebook: <a href="https://www.facebook.com/hayitmurod.eshimov" target="_blank" rel="noopener">Hayitmurod Eshimov</a></br>
 Telegram: <a href="https://t.me/hayitmurod707">@hayitmurod707</a></br>
-Phone: [+99 893 303 02 07](tel:998933030207) <a href="tel:998933030207">+99 893 303 02 07</a>
+Phone: <a href="tel:998933030207">+99 893 303 02 07</a>
