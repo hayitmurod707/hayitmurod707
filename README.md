@@ -8,9 +8,8 @@ Basic: `html`, `css`</br>
 Languages: `javascript` </br>
 Learning: `typescript` <br>
 Frameworks: `reactjs`, `nextjs`</br>
-Technologies: `bootstrap`, `sass`, `less`</br>
-Skills: `ecmascript`, `npm`, `pm2`, `babel`, `webpack`, `lodash`, `websocket`, `axios`, `redux`, `chart.js`, `echarts`, `moment`, `eslint`, `prettier`</br>
-Experiences: `react-router-dom`, `react-hooks`, `react-redux`, `styled-components`, `react-beautiful-dnd`, `recharts`, `react-i18next`, `text-mask`, `react-input-mask`, `react-select`, `tinymce`, `formik`, `react-datepicker`, `react-color`, `react-infinite-scroller`, `rodal`, `react-toastify`, `react-js-pagination`, `prop-types`, `react-paginate`, `swiper`, `rc-slider`, `dotenv`</br>
+Technologies: `bootstrap`, `sass`, `less`, `styled-components`</br>
+Skills: `ecmascript`, `npm`, `babel`, `webpack`, `websocket`, `axios`, `i18next`, `moment`, `redux`, `react-router-dom`, `react-hooks`, `lodash`, `videojs`, `plyr`, `chart.js`, `echarts`, `eslint`, `prettier`, `prop-types`</br>
 Tools: `git`, `github`, `figma`, `postman`, `vscode`</br>
 Other: `UI`, `UX`, `flexible design`</br>
 ### Contacts
