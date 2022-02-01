@@ -4,6 +4,7 @@
 I'm a software engineer specializing Front-End development, although I consider myself a code generalist and get excited about solving just about any problem.
 
 ### CORE COMPETENCIES
+
 Basic: `html`, `css`</br>
 Languages: `javascript` </br>
 Learning: `typescript` <br>
