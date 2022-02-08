@@ -1,10 +1,10 @@
 <img src="./react.gif" alt='react' width="100" height="100" />
-# Hayitmurod Eshimov
-## Front End Developer
-### Hi there 👋
-I'm a software engineer specializing Front-End development, although I consider myself a code generalist and get excited about solving just about any problem.
+<h1>Hayitmurod Eshimov</h1>
+<h2>Front End Developer</h2>
+<h3>Hi there 👋</h3>
+<p>I'm a software engineer specializing Front-End development, although I consider myself a code generalist and get excited about solving just about any problem.</p>
 
-### CORE COMPETENCIES
+<h3>CORE COMPETENCIES</h3>
 
 Basic: `html`, `css`</br>
 Languages: `javascript` </br>
