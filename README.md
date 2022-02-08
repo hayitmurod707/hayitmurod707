@@ -1,4 +1,4 @@
-<img src="./react.gif" alt='react' width="100" height="100" />
+<img src="./react.gif" style='border: 3px solid #04A4D0; border-radius: 50%' alt='react' width="100" height="100" />
 <h1>Hayitmurod Eshimov</h1>
 <h2>Front End Developer</h2>
 <h3>Hi there 👋</h3>
