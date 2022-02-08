@@ -1,3 +1,4 @@
+<img src="./react.gif" alt='react' width="100" height="100" />
 # Hayitmurod Eshimov
 ## Front End Developer
 ### Hi there 👋
