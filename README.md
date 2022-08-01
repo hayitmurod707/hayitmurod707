@@ -1,19 +1,11 @@
-<img src="./react.gif" style='border: 3px solid #04A4D0; border-radius: 50%' alt='react' width="100" height="100" />
+<img src="./github.svg" style='border: 3px solid #04A4D0; width: 100%' alt='react' />
 <h1>Hayitmurod Eshimov</h1>
 <h2>Front End Developer</h2>
 <h3>Hi there 👋</h3>
 <p>I'm a software engineer specializing Front-End development, although I consider myself a code generalist and get excited about solving just about any problem.</p>
 
-<h3>CORE COMPETENCIES</h3>
-
-Basic: `html`, `css`</br>
-Languages: `javascript` </br>
-Learning: `typescript` <br>
-Frameworks: `reactjs`, `nextjs`</br>
-Technologies: `bootstrap`, `sass`, `less`, `styled-components`</br>
-Skills: `ecmascript`, `npm`, `babel`, `webpack`, `websocket`, `axios`, `i18next`, `moment`, `redux`, `react-router-dom`, `react-hooks`, `lodash`, `videojs`, `plyr`, `chart.js`, `echarts`, `eslint`, `prettier`, `prop-types`</br>
-Tools: `git`, `github`, `figma`, `postman`, `vscode`</br>
-Other: `UI`, `UX`, `flexible design`</br>
+<h3>SKILLS</h3>
+`Html`, `CSS`, `Sass`, `Less`, `Bootstrap`, `Material ui` `Javascript`, `React`, `Nextjs` `ES6`, `Babel`, `Webpack`, `Npm`, `Rest api`, `Redux`, `React-router`, `Chart.js`, `Video encryption`, `Git`, `Github`, `Gitlab`, `UX / UI`, `Vscode`, `Figma`, `Postman`<br />
 ### Contacts
 Phone: <a href="tel:998933030207">+99 893 303 02 07</a></br>
 Website: <a href="https://hayitmurod.me" target="_blank" rel="noopener">hayitmurod.me</a></br>
