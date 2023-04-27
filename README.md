@@ -1,6 +1,6 @@
 <img src="./github.svg" style='width: 100%' alt='coding' />
 <h1>Hayitmurod Eshimov</h1>
-<h2>Senior Front End Developer</h2>
+<h2>Senior Front End Developer(React)</h2>
 <h3>Hi there 👋</h3>
 <p>I'm senior front end developer, although I consider myself a code generalist and get excited about solving just about any problem.</p>
 
