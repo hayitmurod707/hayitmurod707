@@ -1,12 +1,12 @@
-<img src="./github.svg" style='width: 100%' alt='react' />
+<img src="./github.svg" style='width: 100%' alt='coding' />
 <h1>Hayitmurod Eshimov</h1>
-<h2>Front End Developer</h2>
+<h2>Senior Front End Developer</h2>
 <h3>Hi there 👋</h3>
-<p>I'm a software engineer specializing Front-End development, although I consider myself a code generalist and get excited about solving just about any problem.</p>
+<p>I'm senior front end developer, although I consider myself a code generalist and get excited about solving just about any problem.</p>
 
 <h3>SKILLS:</h3>
 <p>
-   <code>Html</code>, <code>Css</code>, <code>Sass</code>, <code>Less</code>, <code>Bootstrap</code>, <code>Material UI</code>, <code>Javascript</code>, <code>React</code>, <code>Nextjs</code>, <code>ES6</code>, <code>Babel</code>, <code>Webpack</code>, <code>Npm</code>, <code>Rest Api</code>, <code>Redux</code>, <code>React Router</code>, <code>Chart.js</code>, <code>Video encryption</code>, <code>Git</code>, <code>Github</code>, <code>Gitlab</code>, <code>UX/UI</code>, <code>Vscode</code>, <code>Figma</code>, <code>Postman</code><br />
+   <code>html</code>, <code>css</code>, <code>sass</code>, <code>less</code>, <code>bootstrap</code>, <code>material ui</code>, <code>javascript</code>, <code>react</code>, <code>next.js</code>, <code>es6</code>, <code>babel</code>, <code>webpack</code>, <code>npm</code>, <code>rest Api</code>, <code>redux</code>, <code>react-router</code>, <code>chart.js</code>, <code>video-encryption</code>, <code>git</code>, <code>github</code>, <code>gitlab</code>, <code>ux/ui</code>, <code>vscode</code>, <code>figma</code>, <code>postman</code><br />
 </p>
 <h3>Contacts:</h3>
 Phone <a href="tel:998933030207">+99 893 303 02 07</a></br>
