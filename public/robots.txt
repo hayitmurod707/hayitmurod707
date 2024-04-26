@@ -1,0 +1,4 @@
+User-agent: *
+
+Host: https://hayitmurod.io/
+Sitemap: https://hayitmurod.io/sitemap.xml
